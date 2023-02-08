@@ -15,7 +15,9 @@ Conteúdos das aulas da trilha de front.
 
 ### 📂 Módulo HTML e CSS
 
-⏰ Aguardando...
+| Aula | Assuntos          | Conteúdo                                                                        |
+| ---- | ----------------- | ------------------------------------------------------------------------------- |
+| 01   | Introdução e HTML | [Link](https://github.com/vemser/front-11-edicao/tree/main/1-html-e-css/aula01) |
 
 ### 📂 Módulo JavaScript
 

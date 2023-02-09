@@ -1,0 +1,21 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+div {
+  width: 200px;
+  height: 200px;
+  border: solid 2px black;
+  /* espaçamento interno: */
+  /* padding: 0 0 0 20px; */
+  padding: 20px;
+  /* espaçamento externo */
+  /* margin: 0 20px;  */
+  margin: 20px 0 0 20px;
+  /* mesma coisa que: 
+   * margin-left: 20px; */
+  background-color: pink;
+  display: inline-block;
+}

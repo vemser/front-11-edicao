@@ -1,0 +1,17 @@
+p {
+  color: blue;
+}
+
+p::after {
+  content: "isto aqui é um pseudoelemento";
+}
+
+/* p::before {
+  content: "*";
+  color: red;
+} */
+
+p::first-letter {
+  color: green;
+}
+

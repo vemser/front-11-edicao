@@ -1,0 +1,33 @@
+button:hover {
+  background-color: pink;
+  
+  border: none;
+}
+
+button {
+  /* outline: none; */
+}
+
+input:focus {
+  border: solid red 5px;
+}
+
+/* .container > p:last-child {
+  color: green;
+} */
+
+.container > p:nth-child(n+3) {
+  color: green;
+}
+
+input[type=submit] {
+  border: solid 2px pink;
+}
+
+/* input:disabled {
+  background-color: red;
+} */
+
+a[target=_blank] {
+  color: red;
+}

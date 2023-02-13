@@ -1,0 +1,27 @@
+@import url('./variables.css');
+
+* {
+  padding: 0;
+  margin: 0;
+  font-family: var(--primary-font);
+}
+
+header a {
+  color: white;
+  text-decoration: none;
+}
+
+header {
+  background-color: var(--preto);
+  padding: 10px 0;
+  padding-right: 30px;
+}
+
+li {
+  list-style-type: none;
+}
+nav > ul {
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px;
+}

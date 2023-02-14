@@ -1,0 +1,16 @@
+:root {
+  --header-height: 15vh;
+}
+
+header nav ul {
+  flex-direction: column;
+  gap: 0;
+  justify-content: start;
+}
+
+header .container {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 10px;
+}

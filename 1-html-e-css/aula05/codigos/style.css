@@ -1,0 +1,17 @@
+.container {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+}
+
+@media (max-width: 768px) {
+  .container {
+    background-color: purple;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 996px) {
+  .container {
+    background-color: pink;
+  }
+}

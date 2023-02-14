@@ -21,6 +21,7 @@ Conteúdos das aulas da trilha de front.
 | 02   | CSS - Classes, IDs, **Box Model**, display, Google Fonts, Font Awesome e **Position** | [Link](https://github.com/vemser/front-11-edicao/tree/main/1-html-e-css/aula02) |
 | 03   | Flexbox                                                                               | [Link](https://github.com/vemser/front-11-edicao/tree/main/1-html-e-css/aula03) |
 | 04   | Grid, variáveis, medidas absolutas e relativas, transition e animation                | [Link](https://github.com/vemser/front-11-edicao/tree/main/1-html-e-css/aula04) |
+| 05   | Responsividade, _mobile first_ e _media queries_                                      | [Link](https://github.com/vemser/front-11-edicao/tree/main/1-html-e-css/aula05) |
 
 ### 📂 Módulo JavaScript
 

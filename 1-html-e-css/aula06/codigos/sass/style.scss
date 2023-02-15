@@ -1,0 +1,33 @@
+$azul: #3C91E6;
+$rosa: #D0BCD5;
+$verde: #38E4AE;
+
+@mixin tamanho-card($cor-do-card, $tamanho-da-fonte) {
+  width: 100px;
+  height: 100px;
+  background-color: $cor-do-card;
+  font-size: $tamanho-da-fonte;
+}
+
+.container {
+  width: 500px;
+  height: 500px;
+  background-color: $azul;
+
+  .card {
+    @include tamanho-card($rosa, 1rem);
+
+    &:hover {
+      color: red;
+    }
+  }
+
+  .outro-card {
+    @include tamanho-card($verde, 2rem / 2);
+  }
+
+  p {
+    font-weight: bold;
+  }
+}
+

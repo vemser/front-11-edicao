@@ -1,6 +1,6 @@
-$azul: #3C91E6;
-$rosa: #D0BCD5;
-$verde: #38E4AE;
+$azul: #3c91e6;
+$rosa: #d0bcd5;
+$verde: #38e4ae;
 
 @mixin tamanho-card($cor-do-card, $tamanho-da-fonte) {
   width: 100px;
@@ -30,4 +30,3 @@ $verde: #38E4AE;
     font-weight: bold;
   }
 }
-

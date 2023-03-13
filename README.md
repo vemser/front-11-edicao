@@ -34,7 +34,9 @@ Conteúdos das aulas da trilha de front.
 
 ### 📂 Módulo TypeScript
 
-⏰ Aguardando...
+| Aula | Assuntos                                   | Conteúdo                                                                          |
+| ---- | ------------------------------------------ | --------------------------------------------------------------------------------- |
+| 01   | tipagem de dados e introdução à TypeScript | [Link](https://github.com/vemser/front-11-edicao/tree/main/4-1-typescript/aula01) |
 
 ### 📂 Módulo Testes Unitários
 
